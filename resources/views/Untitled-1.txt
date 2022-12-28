@@ -1,0 +1,2 @@
+
+{{ route('croudData_update', [ 'id' => $crudData->id]) }}
